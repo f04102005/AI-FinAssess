@@ -45,6 +45,9 @@ graph TD;
         classDef default fill:#f2f0ff,color:#111,line-height:1.2
         classDef first fill-opacity:0
         classDef last fill:#bfb6fc,color:#111
+        classDef default fill:#f2f0ff,color:#111,line-height:1.2
+        classDef first fill:#d8f3dc,color:#111
+        classDef last fill:#bfb6fc,color:#111
 ```
 
 ### Key Design Choices
